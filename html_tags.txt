@@ -1,0 +1,15 @@
+BASIC HTML TAGS:
+
+
+
+<h1>basic_header 1</h1>
+<h2>basic header 2</h2>
+
+<p>paragraph content</p>
+<!-- COMMENTS IN HTML -->
+
+<main>
+    <content next>
+    <content next>
+    <content next>
+</main>
